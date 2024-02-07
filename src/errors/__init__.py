@@ -1,1 +1,2 @@
 from .http_request_error import Http_request_error
+from .http_unprocessable_entity import HttpUnprocessableEntityError
